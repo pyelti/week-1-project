@@ -1,4 +1,4 @@
-ublic class Fans {
+public class Fans {
 private String Name;
 private SnapchatAccount t = new snapchatAccount();
 
